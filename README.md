@@ -14,4 +14,5 @@ The rule tested is as follows:
 
 ## Motivation for this project
 
-see blog post ... (Coming soon)
+[See blog post](https://christianoette.com/en/blog/blog-post/2022-04-28-reflections-tests)
+
