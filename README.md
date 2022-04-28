@@ -2,7 +2,7 @@
 
 This example project shows how to enforce coding rules which are domain specific.
 
-The rule is tested is as follows:
+The rule tested is as follows:
 - Every class implementing the interface `MyInterface` must be annotated with  `@MandatoryAnnotation`
 
 ## Try it yourself
